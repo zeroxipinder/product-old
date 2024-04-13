@@ -271,7 +271,6 @@ $ran = "https://escort.id/file/g/";
 " ㊙️ Agen Judi Slot Online Terpercaya Deposit Slot Gacor 5000",
      ];
     $rj = $judulList[array_rand($judulList)];
-    $ri = $ikonList[array_rand($ikonList)];
     $kontenList = [
       "Menikmati Sensasi Bermain Togel Online yang Seru dan Menguntungkan
  Togel online telah menjadi salah satu permainan yang paling diminati di kalangan pecinta judi daring. Menyajikan pengalaman yang seru dan mengasyikkan, togel online tidak hanya sekadar permainan keberuntungan semata, tetapi juga menyuguhkan beragam strategi dan analisis. Dengan mudah diakses melalui platform daring, pemain dapat menikmati berbagai jenis taruhan togel dengan praktis dan aman. Penggunaan teknologi yang canggih juga memastikan keamanan dan keadilan dalam setiap putaran permainan, menjadikan pengalaman bermain togel online semakin menghibur.
