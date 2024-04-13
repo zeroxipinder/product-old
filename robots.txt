@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://lms.uniqhba.ac.id/product/sitemap.xml
+Sitemap: https://rektorat.uniqhba.ac.id/product/sitemap.xml
