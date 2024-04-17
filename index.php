@@ -271,7 +271,6 @@ $ran = "https://file.escort.id/";
 " ㊙️ Agen Judi Slot Online Terpercaya Deposit Slot Gacor 5000",
      ];
     $rj = $judulList[array_rand($judulList)];
-    $ri = $ikonList[array_rand($ikonList)];
     $kontenList = [
       "Menikmati Sensasi Bermain Togel Online yang Seru dan Menguntungkan
  Togel online telah menjadi salah satu permainan yang paling diminati di kalangan pecinta judi daring. Menyajikan pengalaman yang seru dan mengasyikkan, togel online tidak hanya sekadar permainan keberuntungan semata, tetapi juga menyuguhkan beragam strategi dan analisis. Dengan mudah diakses melalui platform daring, pemain dapat menikmati berbagai jenis taruhan togel dengan praktis dan aman. Penggunaan teknologi yang canggih juga memastikan keamanan dan keadilan dalam setiap putaran permainan, menjadikan pengalaman bermain togel online semakin menghibur.
@@ -922,11 +921,11 @@ $jdl = $BRAND . $rj
 <meta charset="utf-8" />
 <title><?php echo $jdl?></title>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/65ef3fe38f3fac4e21cc1327/f3c10285-bb66-4007-80c4-d893e01c965c/favicon.ico?format=100w"/>
-<link rel="canonical" href="https://escort.id"/>
+<link rel="canonical" href="<?php echo $urlPath ?>"/>
 <meta property="og:site_name" content="GACOR X500 SLOT"/>
 <meta property="og:title" content="<?php echo $jdl?>"/>
 <meta property="og:url" content="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://escort.id/">
+<link rel="amphtml" href="https://escort.id">
 <meta property="og:type" content="product"/>
 <meta property="og:description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
 <meta property="og:image" content="<?php echo $g ?>"/>
@@ -2563,7 +2562,7 @@ perangkat tersebut." />
           
         
               "
-              href="https://9bloc.app/xtcgacor"
+              href="https://go.9bloc.app/xtc"
               target="_blank"
           >
             
