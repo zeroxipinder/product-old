@@ -925,7 +925,7 @@ $jdl = $BRAND . $rj
 <meta property="og:site_name" content="GACOR X500 SLOT"/>
 <meta property="og:title" content="<?php echo $jdl?>"/>
 <meta property="og:url" content="<?php echo $urlPath ?>"/>
-<link rel="amphtml" href="https://escort.id">
+<link rel="amphtml" href="https://escort.id/">
 <meta property="og:type" content="product"/>
 <meta property="og:description" content="<?php echo $BRANDS ?> Kami memberikan rekomendasi tentang situs slot saat ini yang sedang gacor memakai server thailand."/>
 <meta property="og:image" content="<?php echo $g ?>"/>
