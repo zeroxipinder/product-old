@@ -2,6 +2,6 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://fkip.uniqhba.ac.id/sitemap.xml
-Sitemap: https://fkip.uniqhba.ac.id/sonia/sitemap.xml
-Sitemap: https://fkip.uniqhba.ac.id/product/sitemap.xml
+Sitemap: https://fkes.uniqhba.ac.id/sitemap.xml
+Sitemap: https://fkes.uniqhba.ac.id/sonia/sitemap.xml
+Sitemap: https://fkes.uniqhba.ac.id/product/sitemap.xml
